@@ -1,0 +1,45 @@
+.image{
+    float:left;
+}
+
+.info{
+    background:rgb(73, 73, 129);
+    color:white;
+    float:left;
+    height:264px;
+    width:77%;
+    padding-left: 25px;
+}
+
+.exp{
+    margin-top: 60px;
+    /* margin-right: 50%; */
+    float: left;
+    width: 60%;
+}
+
+.skills{
+    margin-top: 60px;
+    /* margin-right:70px; */
+    margin-left: 30px;
+    height: 800px;
+    float:left;
+    background: rgb(238, 213, 234);
+    width:30%;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+
+.reach{
+    margin-top: 60px;
+    margin-left:30px;
+    height: 500px;
+    float:left;
+    width:30%;
+    padding-left: 25px;
+    padding-right: 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(107, 106, 106);
+    align-content: center;
+
+}
